@@ -1,20 +1,33 @@
 import React from 'react';
 
+const styles = {
+  footer: {
+    display: 'flex',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    marginTop: '20px',
+    marginBottom: '20px',
+  },
+  link: {
+    margin: '5px',
+  }
+};
+
 function Footer({ currentPage, handlePageChange }) {
   return (
-    <div>
+    <div style={styles.footer}>
     <a href="https://github.com/felix1805">
-      <p>
+      <p style={styles.link}>
       GitHub
     </p>
     </a>
     <a href="https://www.linkedin.com/in/felix-petzsche-334a8b66/">
-      <p>
+      <p style={styles.link}>
       LinkedIn
     </p>
     </a>
     <a href="https://stackoverflow.com/users/18957856/felix-petzsche">
-      <p>
+      <p style={styles.link}>
       StackOverflow
     </p>
     </a>
