@@ -2,7 +2,7 @@
   "name": "felixs-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git@github.com:felix1805/felixs-react-portfolio.git",
+  "homepage": "https://felix1805.github.io/felixs-react-portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
