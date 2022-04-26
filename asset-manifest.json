@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/git@github.com:felix1805/felixs-react-portfolio.git/static/css/main.073c9b0a.css",
-    "main.js": "/git@github.com:felix1805/felixs-react-portfolio.git/static/js/main.b18b6de6.js",
-    "static/js/787.636ed93f.chunk.js": "/git@github.com:felix1805/felixs-react-portfolio.git/static/js/787.636ed93f.chunk.js",
-    "static/media/logo.svg": "/git@github.com:felix1805/felixs-react-portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/git@github.com:felix1805/felixs-react-portfolio.git/index.html",
-    "main.073c9b0a.css.map": "/git@github.com:felix1805/felixs-react-portfolio.git/static/css/main.073c9b0a.css.map",
-    "main.b18b6de6.js.map": "/git@github.com:felix1805/felixs-react-portfolio.git/static/js/main.b18b6de6.js.map",
-    "787.636ed93f.chunk.js.map": "/git@github.com:felix1805/felixs-react-portfolio.git/static/js/787.636ed93f.chunk.js.map"
+    "main.css": "/felixs-react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/felixs-react-portfolio/static/js/main.cb810104.js",
+    "static/js/787.636ed93f.chunk.js": "/felixs-react-portfolio/static/js/787.636ed93f.chunk.js",
+    "static/media/logo.svg": "/felixs-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/felixs-react-portfolio/index.html",
+    "main.073c9b0a.css.map": "/felixs-react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.cb810104.js.map": "/felixs-react-portfolio/static/js/main.cb810104.js.map",
+    "787.636ed93f.chunk.js.map": "/felixs-react-portfolio/static/js/787.636ed93f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b18b6de6.js"
+    "static/js/main.cb810104.js"
   ]
 }
