@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Footer';
 
 export default function Portfolio() {
   return (
@@ -19,6 +20,7 @@ export default function Portfolio() {
         bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
         est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
+      <Footer />
     </div>
   );
 }
