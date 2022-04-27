@@ -32,13 +32,13 @@ export default function Portfolio() {
       <h1>Portfolio Page</h1>
       <div style={styles.container}>
         <div className="card" style={styles.card}>
-          <a href='https://google.com'>
-            <img src="https://picsum.photos/300" style={styles.pic} width="105" alt="Card image cap" />
+          <a href='https://felix1805.github.io/Felix-Web-Development-Portfolio/'>
+            <img src="https://res.cloudinary.com/dsvhebfu6/image/upload/v1651089633/Bootcamp%202022/portfolioscreenshot_qasfcv.jpg" style={styles.pic} width="105" alt="Card image cap" />
           </a>
           <div className="card-body" style={styles.cardBody}>
-            <h5 className="card-title">Project 1</h5>
-            <p className="card-text">This is a description about the project.</p>
-            <a href="https://github.com/felix1805" className="btn btn-primary">View GitHub Repo</a>
+            <h5 className="card-title">Web Development Portfolio</h5>
+            <p className="card-text">This is my personal web development portfolio.</p>
+            <a href="https://github.com/felix1805/Felix-Web-Development-Portfolio" className="btn btn-primary">View GitHub Repo</a>
           </div>
         </div>
         <div className="card" style={styles.card}>
@@ -46,9 +46,9 @@ export default function Portfolio() {
           <img src="https://picsum.photos/301" style={styles.pic} width="106" alt="Card image cap" />
           </a>
           <div className="card-body" style={styles.cardBody}>
-            <h5 className="card-title">Project 2</h5>
-            <p className="card-text">This is a description about the project.</p>
-            <a href="https://github.com/felix1805" className="btn btn-primary">View GitHub Repo</a>
+            <h5 className="card-title">Group Project 1</h5>
+            <p className="card-text">This is my first group project from our 2022 Coding Bootcamp.</p>
+            <a href="https://github.com/felix1805/State-Park-Weather" className="btn btn-primary">View GitHub Repo</a>
           </div>
         </div>
         <div className="card" style={styles.card}>
