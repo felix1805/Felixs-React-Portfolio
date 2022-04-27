@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/felixs-react-portfolio/static/css/main.b70b8dda.css",
-    "main.js": "/felixs-react-portfolio/static/js/main.0704ddb2.js",
+    "main.js": "/felixs-react-portfolio/static/js/main.e4d75929.js",
     "static/media/myResume.pdf": "/felixs-react-portfolio/static/media/myResume.b96a1e4449e41d9342cc.pdf",
     "index.html": "/felixs-react-portfolio/index.html",
     "main.b70b8dda.css.map": "/felixs-react-portfolio/static/css/main.b70b8dda.css.map",
-    "main.0704ddb2.js.map": "/felixs-react-portfolio/static/js/main.0704ddb2.js.map"
+    "main.e4d75929.js.map": "/felixs-react-portfolio/static/js/main.e4d75929.js.map"
   },
   "entrypoints": [
     "static/css/main.b70b8dda.css",
-    "static/js/main.0704ddb2.js"
+    "static/js/main.e4d75929.js"
   ]
 }
