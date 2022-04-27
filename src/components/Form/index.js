@@ -22,7 +22,7 @@ const styles = {
     width: '18rem',
     display: 'flex',
     flexDirection: 'column',
-    
+
 
   },
   image: {
@@ -67,7 +67,7 @@ function Form() {
   return (
     <div>
       <p>
-        Hello {userName}
+       {userName}
       </p>
       <form className="form" onSubmit={handleFormSubmit}>
         <input

@@ -9,19 +9,23 @@ const styles = {
   header: {
     backgroundColor: '#59C9A5',
     display: 'flex',
-    alignItems: 'center',
+    alignItems: 'flex-start',
+    flexDirection: 'column',
   },
   h1: {
-    color: '#5B6C5D',
+    color: '#545863',
+    backgroundColor: "#59C9A5",
     textAlign: 'center',
+    marginBottom: '0',
+    fontSize: '50px',
   },
 }
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div>
+      <h1 style={styles.h1}>Felix Petzsche</h1>
       <header style={styles.header}>
-        <h1 style={styles.h1}>Felix Petzsche</h1>
         <ul className="nav nav-tabs">
           <li className="nav-item">
             <a
@@ -30,17 +34,7 @@ function NavTabs({ currentPage, handlePageChange }) {
               className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
               style={styles.navItem}
             >
-              About
-            </a>
-          </li>
-          <li className="nav-item">
-            <a
-              href="#Resume"
-              onClick={() => handlePageChange('Resume')}
-              className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
-              style={styles.navItem}
-            >
-              Resume
+              About Me
             </a>
           </li>
           <li className="nav-item">
@@ -63,7 +57,17 @@ function NavTabs({ currentPage, handlePageChange }) {
               Contact
             </a>
           </li>
-    </ul>
+          <li className="nav-item">
+            <a
+              href="#Resume"
+              onClick={() => handlePageChange('Resume')}
+              className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+              style={styles.navItem}
+            >
+              Resume
+            </a>
+          </li>
+        </ul>
       </header>
     </div >
   );

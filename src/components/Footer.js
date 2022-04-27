@@ -7,11 +7,11 @@ const styles = {
     justifyContent: 'center',
     marginTop: '20px',
     marginBottom: '20px',
+    fontSize: '25px',
   },
   link: {
     margin: '5px',
-    fontWeight: 'bold',
-  }
+  },
 };
 
 function Footer({ currentPage, handlePageChange }) {

@@ -13,14 +13,6 @@ const styles = {
   h1: {
   color: '#465775'
   },
-  p: {
-    color: '#56E39F',
-    display: 'flex',
-    textAlign: 'center',
-  },
-  image: {
-    width: '18rem',
-  },
 }
 
 export default function Contact() {
