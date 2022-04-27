@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/felixs-react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/felixs-react-portfolio/static/js/main.cb810104.js",
-    "static/js/787.636ed93f.chunk.js": "/felixs-react-portfolio/static/js/787.636ed93f.chunk.js",
-    "static/media/logo.svg": "/felixs-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/felixs-react-portfolio/static/css/main.b70b8dda.css",
+    "main.js": "/felixs-react-portfolio/static/js/main.0704ddb2.js",
+    "static/media/myResume.pdf": "/felixs-react-portfolio/static/media/myResume.b96a1e4449e41d9342cc.pdf",
     "index.html": "/felixs-react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/felixs-react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.cb810104.js.map": "/felixs-react-portfolio/static/js/main.cb810104.js.map",
-    "787.636ed93f.chunk.js.map": "/felixs-react-portfolio/static/js/787.636ed93f.chunk.js.map"
+    "main.b70b8dda.css.map": "/felixs-react-portfolio/static/css/main.b70b8dda.css.map",
+    "main.0704ddb2.js.map": "/felixs-react-portfolio/static/js/main.0704ddb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cb810104.js"
+    "static/css/main.b70b8dda.css",
+    "static/js/main.0704ddb2.js"
   ]
 }
