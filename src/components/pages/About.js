@@ -21,11 +21,12 @@ const styles = {
     width: '20rem',
     borderRadius: "10px"
   },
+  
 }
 
 export default function About() {
   return (
-    <div class='card' style={styles.body}>
+    <div class='card' d-flex flex-column min-vh-100 style={styles.body}>
       <h1 style={styles.h1}>About Page</h1>
       <img style={styles.image} src="https://avatars.githubusercontent.com/u/1591804?s=400&u=1c35e78aa9bb071b7a10f3f22d1f88e7c01e1331&v=4"  width="100"/>
       <br></br>

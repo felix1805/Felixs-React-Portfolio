@@ -124,6 +124,16 @@ export default function Portfolio() {
             <a href="https://github.com/felix1805/password-generator" className="btn btn-primary">View GitHub Repo</a>
           </div>
         </div>
+        <div className="card" style={styles.card}>
+          <a href='https://felix1805.github.io/pixel-mixup/'>
+            <img src="https://res.cloudinary.com/dsvhebfu6/image/upload/v1652824661/Project3_hzu5h6.jpg" style={styles.pic} width="110" alt="Card image cap" />
+          </a>
+          <div className="card-body" style={styles.cardBody}>
+            <h5 style={styles.h1} className="card-title">Group Project 3</h5>
+            <p style={styles.p}  className="card-text">This was the final project of the UNCC coding Bootcamp. It utilizes a React application structure along with a MongoDB database architecture. It can be used to create 16x16 pixel art. </p>
+            <a href="https://github.com/felix1805/pixel-mixup" className="btn btn-primary">View GitHub Repo</a>
+          </div>
+        </div>
       </div>
       <Footer />
     </div>

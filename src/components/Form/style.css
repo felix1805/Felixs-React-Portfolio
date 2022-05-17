@@ -8,3 +8,8 @@
   margin-bottom: 5px;
   width: 100%;
 }
+#root {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
